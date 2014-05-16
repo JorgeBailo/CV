@@ -222,7 +222,7 @@ ul#schools li > p,
 ul#recommends li > p {float: right; width: 57%; margin-bottom: 25px;}
 
 ul#jobs-details_1, ul#jobs-details_2, ul#jobs-details_3,ul#jobs-details_4, ul#jobs-details_5, ul#jobs-details_6 {margin: 15px 0 15px 25px;position: relative;}
-ul#jobs-details_1 li, ul#jobs-details_2 li, ul#jobs-details_3 li, ul#jobs-details_4 li, ul#jobs-details_5 li, ul#jobs-details_6 li { margin:0px; clear: both;}
+ul#jobs-details_1 li, ul#jobs-details_2 li, ul#jobs-details_3 li, ul#jobs-details_4 li, ul#jobs-details_5 li, ul#jobs-details_6 li, ul#jobs-details_7 li { margin:0px; clear: both;}
 
 ul#schools-details {margin: 15px 0 15px 25px;position: relative;}
 ul#schools-details li { margin:0px; clear: both;}
