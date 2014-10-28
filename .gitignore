@@ -7,6 +7,9 @@ nbdist/
 nbactions.xml
 nb-configuration.xml
 
+# phpstorm
+.idea/
+
 # Windows
 Thumbs.db
 ehthumbs.db
